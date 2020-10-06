@@ -64,5 +64,5 @@
             android:layout_height="wrap_content"
             android:text="버튼6"
             />
-    </LinearLayout>s
+    </LinearLayout>
 </LinearLayout>
